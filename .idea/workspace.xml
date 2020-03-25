@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="266d2e17-389e-4980-a6dc-92ac9650f85e" name="Default Changelist" comment="" />
+    <list default="true" id="266d2e17-389e-4980-a6dc-92ac9650f85e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7c574005fdf36aeaf11f2118f307aaeb.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7c574005fdf36aeaf11f2118f307aaeb.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/7429d78fd790efc8d829b0635d0a193b.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/7429d78fd790efc8d829b0635d0a193b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/a4a13315cd1ede500ebe6695d4c92231.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/a4a13315cd1ede500ebe6695d4c92231.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/bf381ca4fd254f7371a964e93cad6fce.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/bf381ca4fd254f7371a964e93cad6fce.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/dec330f67a70790f79b2266c70d7a518.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/dec330f67a70790f79b2266c70d7a518.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/eb1207b618dfce2d2224aca2b0c1480b.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/eb1207b618dfce2d2224aca2b0c1480b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.stats-serve.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.stats-serve.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/About.vue" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585088835600</updated>
-      <workItem from="1585088837389" duration="30008000" />
+      <workItem from="1585088837389" duration="32147000" />
     </task>
     <servers />
   </component>
