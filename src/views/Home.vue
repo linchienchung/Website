@@ -1,8 +1,7 @@
 <template>
     <div class="home">
-        <img alt="Vue logo" src="../assets/logo.png">
         <Carousel/>
-
+        <img alt="Vue logo" src="../assets/logo.png">
         <Home msg="Hello"></Home>
     </div>
 </template>
