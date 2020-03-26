@@ -21,7 +21,7 @@
                         </div>
                     </div>
                     <div class="right" style="color: black;">
-                        <div class="timetable" style="padding-top: 5rem;margin-left: 50px">
+                        <div class="timetable" style="padding-top: 16vh;margin-left: 50px">
                             <div class="time">
                                 <span style="text-align: left;">門診時間：</span>
                                 <br/>
