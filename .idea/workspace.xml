@@ -3,7 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="266d2e17-389e-4980-a6dc-92ac9650f85e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ef68dccd87b9e4f1be7eff27a595cf77.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ef68dccd87b9e4f1be7eff27a595cf77.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/18f7b4a681b0bfebe1b197acc5cc9802.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/18f7b4a681b0bfebe1b197acc5cc9802.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/2b1af5989afe82ed44cb60f88564710a.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/2b1af5989afe82ed44cb60f88564710a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/7c054d6ffb869fcff87e1b46cc99aedc.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/7c054d6ffb869fcff87e1b46cc99aedc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/84fc32ea2fd573971883bb6766ab8ee5.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/84fc32ea2fd573971883bb6766ab8ee5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/dee6df620dbfe26be0e80828ddd9dd88.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/dee6df620dbfe26be0e80828ddd9dd88.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.stats-serve.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.stats-serve.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/AppointmentInfo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/AppointmentInfo.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585088835600</updated>
-      <workItem from="1585088837389" duration="33742000" />
+      <workItem from="1585088837389" duration="35649000" />
     </task>
     <servers />
   </component>

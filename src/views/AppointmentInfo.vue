@@ -16,27 +16,29 @@
                     <div class="left">
                         <div style="display: inline-block; float: right;">
                             <iframe height="360px;" frameborder="0"
-                                    style="border:0; padding-top:30px;padding-left:30px;position: relative;"
+                                    class="map"
                                     :src="item.map+'&key='+key" allowfullscreen></iframe>
                         </div>
                     </div>
                     <div class="right" style="color: black;">
-                        <div class="timetable" style="padding-top: 16vh;margin-left: 50px">
-                            <div class="time">
-                                <span style="text-align: left;">門診時間：</span>
-                                <br/>
-                                <ul>
-                                    <li v-bind:key="time" v-for="time in item.open_time">{{time}}</li>
-                                </ul>
-                                <span>現場掛號時間：</span>
-                                <br>
-                                <ul>
-                                    <li v-bind:key="time" v-for="time in item.appointment_time">{{time}}</li>
-                                </ul>
-                                <div class="timebutton">
-                                    <a :href="item.link">
-                                        <button class="tbutton"><span style="margin: 10px;">網路掛號</span></button>
-                                    </a>
+                        <div class="time_parent">
+                            <div class="timetable">
+                                <div class="time">
+                                    <span class="time_text">門診時間：</span>
+                                    <br/>
+                                    <ul>
+                                        <li v-bind:key="time" v-for="time in item.open_time">{{time}}</li>
+                                    </ul>
+                                    <span class="time_text">現場掛號時間：</span>
+                                    <br>
+                                    <ul>
+                                        <li v-bind:key="time" v-for="time in item.appointment_time">{{time}}</li>
+                                    </ul>
+                                    <div class="timebutton">
+                                        <a :href="item.link">
+                                            <button class="tbutton"><span style="margin: 10px;">網路掛號</span></button>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -99,6 +101,10 @@
         position: relative;
     }
 
+    .container {
+        padding-left: unset;
+    }
+
     .timebutton {
         text-align: center;
     }
@@ -108,7 +114,6 @@
     }
 
     .timetable {
-        padding: 30px;
         margin-top: 0;
         display: flex;
         width: 300px;
@@ -117,6 +122,15 @@
         position: relative;
         border-color: black;
         border-width: 1px;
+        padding: 16vh 15px 15px;
+        margin-left: 50px;
+    }
+
+    .map {
+        border: 0;
+        padding-top: 30px;
+        padding-left: 30px;
+        position: relative;
     }
 
     .frame {
@@ -139,6 +153,7 @@
         float: left;
     }
 
+
     .right {
         -ms-flex-order: 2;
         order: 2;
@@ -152,6 +167,7 @@
         width: auto;
         -webkit-box-ordinal-group: 2; /* OLD - iOS 6-, Safari 3.1-6 */
         -moz-box-ordinal-group: 2; /* OLD - Firefox 19- */
+        text-align: center;
         /*width: 50%;*/
         /*text-align: right;*/
         display: inline-block;
@@ -168,7 +184,11 @@
         padding: 5px;
     }
 
-    @media screen and (max-width: 700px) {
+    .time_text {
+        display: inline-block;
+    }
+
+    @media screen and (max-width: 767px) {
         .frame {
             -webkit-box-orient: vertical;
             -moz-box-orient: vertical;
@@ -179,5 +199,31 @@
             -webkit-flex-direction: column;
             flex-direction: column;
         }
+
+        .left {
+            float: unset;
+        }
+
+        .map {
+            padding-top: unset;
+            padding-left: unset;
+        }
+
+        .timetable {
+            padding: unset;
+            margin: unset;
+            height: auto;
+        }
+        .time {
+            text-align: center;
+        }
+        .time_parent{
+            align-items: center;
+            justify-content: center;
+            padding-left: 80px;
+            display: flex;
+            text-align: center;
+        }
+
     }
 </style>
