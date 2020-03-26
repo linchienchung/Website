@@ -7,10 +7,12 @@
         </div>
         <br>
         <div :id="item.id" v-bind:key="item.id" v-for="item in appointment_info">
-            <br>
-            <h3>{{item.name}}</h3>
-            <h5 class="notbold">{{item.location}}</h5>
-            <h5 class="notbold">{{item.phone}}</h5>
+            <div style="text-align: center;">
+                <br>
+                <h3>{{item.name}}</h3>
+                <h5 class="notbold">{{item.location}}</h5>
+                <h5 class="notbold">{{item.phone}}</h5>
+            </div>
             <div class="parent-table">
                 <div class="frame">
                     <div class="left">
@@ -68,7 +70,7 @@
                     appointment_time: ["上午 8：00 ～ 11：00"]
                 }, {
                     id: 1,
-                    name: "816國軍台中總醫院中清分院",
+                    name: "816國軍台中中清分院",
                     location: "台中市北區忠明路500號",
                     phone: "電話：(04)2203-3178#12",
                     map: "https://www.google.com/maps/embed/v1/place?q=816%E5%9C%8B%E8%BB%8D%E5%8F%B0%E4%B8%AD%E7%B8%BD%E9%86%AB%E9%99%A2%E4%B8%AD%E6%B8%85%E5%88%86%E9%99%A2",
