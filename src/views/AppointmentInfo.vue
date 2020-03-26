@@ -102,11 +102,7 @@
         text-align: center;
         position: relative;
     }
-
-    .container {
-        padding-left: unset;
-    }
-
+    
     .timebutton {
         text-align: center;
     }
@@ -216,10 +212,12 @@
             margin: unset;
             height: auto;
         }
+
         .time {
             text-align: center;
         }
-        .time_parent{
+
+        .time_parent {
             align-items: center;
             justify-content: center;
             padding-left: 80px;

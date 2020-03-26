@@ -129,6 +129,9 @@
 
     .container {
         padding-top: 2rem;
+        padding-left: unset;
+        padding-right: unset;
+        padding-bottom: unset;
     }
 
     .line-div {
