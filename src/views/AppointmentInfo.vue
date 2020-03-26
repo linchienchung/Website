@@ -17,7 +17,7 @@
                 <div class="frame">
                     <div class="left">
                         <div style="display: inline-block; float: right;">
-                            <iframe height="360px;" frameborder="0"
+                            <iframe height="360px;" style="border:none;"
                                     class="map"
                                     :src="item.map+'&key='+key" allowfullscreen></iframe>
                         </div>
@@ -102,7 +102,7 @@
         text-align: center;
         position: relative;
     }
-    
+
     .timebutton {
         text-align: center;
     }
