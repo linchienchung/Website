@@ -3,14 +3,80 @@
   <component name="ChangeListManager">
     <list default="true" id="266d2e17-389e-4980-a6dc-92ac9650f85e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7c574005fdf36aeaf11f2118f307aaeb.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7c574005fdf36aeaf11f2118f307aaeb.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/7429d78fd790efc8d829b0635d0a193b.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/7429d78fd790efc8d829b0635d0a193b.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/a4a13315cd1ede500ebe6695d4c92231.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/a4a13315cd1ede500ebe6695d4c92231.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/bf381ca4fd254f7371a964e93cad6fce.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/bf381ca4fd254f7371a964e93cad6fce.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/dec330f67a70790f79b2266c70d7a518.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/dec330f67a70790f79b2266c70d7a518.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/eb1207b618dfce2d2224aca2b0c1480b.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/eb1207b618dfce2d2224aca2b0c1480b.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.stats-serve.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.stats-serve.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/About.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue-icons.common.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue-icons.common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue-icons.common.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue-icons.common.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue-icons.common.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue-icons.common.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue-icons.common.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue-icons.common.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue-icons.esm.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue-icons.esm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue-icons.esm.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue-icons.esm.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue-icons.esm.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue-icons.esm.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue-icons.esm.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue-icons.esm.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue-icons.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue-icons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue-icons.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue-icons.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue-icons.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue-icons.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue-icons.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue-icons.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue.common.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue.common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue.common.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue.common.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue.common.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue.common.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue.common.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue.common.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue.esm.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue.esm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue.esm.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue.esm.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue.esm.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue.esm.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue.esm.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue.esm.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/bootstrap-vue.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/vetur-attributes.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/vetur-attributes.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/vetur-tags.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/vetur-tags.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/web-types.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/dist/web-types.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/esm/components/avatar/avatar.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/esm/components/avatar/avatar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/esm/components/collapse/collapse.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/esm/components/collapse/collapse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/esm/components/dropdown/dropdown-item-button.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/esm/components/dropdown/dropdown-item-button.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/esm/components/dropdown/dropdown-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/esm/components/dropdown/dropdown-item.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/esm/components/form-datepicker/form-datepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/esm/components/form-datepicker/form-datepicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/esm/components/form-timepicker/form-timepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/esm/components/form-timepicker/form-timepicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/esm/components/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/esm/components/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/esm/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/esm/components/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/esm/components/navbar/navbar-toggle.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/esm/components/navbar/navbar-toggle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/esm/directives/toggle/toggle.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/esm/directives/toggle/toggle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/esm/icons/icons.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/esm/icons/icons.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/esm/icons/icons.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/esm/icons/icons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/esm/icons/plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/esm/icons/plugin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/esm/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/esm/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/avatar/avatar.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/avatar/avatar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/avatar/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/avatar/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/collapse/collapse.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/collapse/collapse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/dropdown/dropdown-item-button.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/dropdown/dropdown-item-button.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/dropdown/dropdown-item-button.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/dropdown/dropdown-item-button.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/dropdown/dropdown-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/dropdown/dropdown-item.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/dropdown/dropdown-item.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/dropdown/dropdown-item.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/dropdown/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/dropdown/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/embed/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/embed/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/form-datepicker/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/form-datepicker/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/form-datepicker/form-datepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/form-datepicker/form-datepicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/form-datepicker/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/form-datepicker/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/form-spinbutton/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/form-spinbutton/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/form-spinbutton/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/form-spinbutton/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/form-timepicker/form-timepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/form-timepicker/form-timepicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/form-timepicker/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/form-timepicker/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/modal/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/modal/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/navbar/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/navbar/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/navbar/navbar-toggle.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/navbar/navbar-toggle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/navbar/navbar-toggle.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/navbar/navbar-toggle.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/navbar/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/components/navbar/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/directives/toggle/toggle.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/directives/toggle/toggle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/icons/icons.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/icons/icons.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/icons/icons.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/icons/icons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/icons/plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/icons/plugin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap-vue/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +133,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585088835600</updated>
-      <workItem from="1585088837389" duration="38187000" />
+      <workItem from="1585088837389" duration="39030000" />
     </task>
     <servers />
   </component>
@@ -97,11 +163,11 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="440" y="266" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1585172198752" />
-    <state x="503" y="289" width="673" height="472" key="find.popup" timestamp="1585229688645">
+    <state x="503" y="289" width="673" height="472" key="find.popup" timestamp="1585237530321">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="503" y="289" width="673" height="472" key="find.popup/-1920.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1585155964493" />
-    <state x="503" y="289" width="673" height="472" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1585229688645" />
+    <state x="503" y="289" width="673" height="472" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1585237530321" />
     <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1585112528121">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
